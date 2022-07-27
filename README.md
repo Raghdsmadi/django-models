@@ -1,4 +1,4 @@
-# Lab: 26 -  Django models
+# Lab: 27 -  Django models
 # django-snacks-model
   Author: **Raghd Smadi :read_heart:**
 <br>
