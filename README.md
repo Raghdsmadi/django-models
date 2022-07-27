@@ -3,7 +3,7 @@
   Author: **Raghd Smadi :read_heart:**
 <br>
 *************************************************
-[Django_snacks_cafe_pull_request]() <br>
+[Django_snacks_cafe_pull_request](https://github.com/Raghdsmadi/django-models/pull/1) <br>
 
 <h4>How to run my application:
 <br> python manage.py runserver </h4>
